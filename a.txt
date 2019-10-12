@@ -1,1 +1,1 @@
-this is modified a.txt file
+this is directly modified a.txt file
